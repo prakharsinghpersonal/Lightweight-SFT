@@ -1,0 +1,1 @@
+- Commit 2 (Model & Mixed Precision): Implement the SFT training loop for an LLM using Accelerate, enabling FP16/BF16 mixed-precision protocols.
