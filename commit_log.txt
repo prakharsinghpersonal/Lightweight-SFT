@@ -1,1 +1,2 @@
 - Commit 2 (Model & Mixed Precision): Implement the SFT training loop for an LLM using Accelerate, enabling FP16/BF16 mixed-precision protocols.
+- Commit 3 (Distributed Optimization): Configure the training script to map across clustered AWS GPU instances (using DeepSpeed ZeRO stages if necessary) to reduce inter-node latency.
